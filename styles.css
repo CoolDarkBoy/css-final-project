@@ -1,0 +1,53 @@
+html{
+    background-image: url("https://github.com/CoolDarkBoy/css-final-project/blob/main/sword%20tiles%20design.jpg?raw=true");
+}
+
+nav span{
+    padding-inline: 1rem;
+}
+
+header,main{
+    box-shadow: 3px 3px rgb(114, 95, 69);
+}
+
+header,main {
+    text-align: center;
+    margin: 0 30% 0 30%;
+    background-color:rgb(222, 184, 135);
+}
+
+h1,h2,h3{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+p{
+    font-family: 'Times New Roman', Arial;
+    padding: 0 5% 0 5%;
+    text-align: justify;
+}
+
+footer>p {
+    text-align: center;
+    text-transform: capitalize;
+    font-style: oblique;
+    margin: 0 30% 0 30%;
+    background-color:burlywood;
+    box-shadow: 3px 3px rgb(114, 95, 69);
+}
+
+#project-image {
+    width: 35rem;
+}
+
+#about>article{
+    padding: 0 10px 0 10px;
+}
+
+a {
+    font-size: large;
+}
+
+#contact>p {
+    text-align: center;
+}
